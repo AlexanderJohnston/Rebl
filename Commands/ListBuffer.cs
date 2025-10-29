@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using REBL.Utilities;
+﻿using REBL.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Drawing;

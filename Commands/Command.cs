@@ -1,5 +1,4 @@
-﻿using Azure;
-using Memory;
+﻿using Memory;
 using Memory.Chat;
 using REBL.Utilities;
 using System.Drawing;
